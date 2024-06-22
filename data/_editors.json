@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "limitationn",
+        "link": "https://www.youtube.com/@limitationn"
+    },
+    {
+        "role": "owner",
+        "name": "Zealous",
+        "link": "https://www.youtube.com/@zealousgd"
+    },
+    {
+        "role": "admin",
+        "name": "huntzz",
+        "link": "https://www.youtube.com/@huntzzgd"
+    },
+    {
+        "role": "admin",
+        "name": "TacoJed",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Vanious",
+        "link": "https://www.youtube.com/@Vanious"
     }
 ]
