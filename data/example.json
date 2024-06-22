@@ -1,15 +1,15 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
+    "id": 999999,
+    "name": "zeaky",
+    "author": "Name",
+    "creators": ["name"],
+    "verifier": "verifier",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "aaaaa",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
