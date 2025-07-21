@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+                    {
+            "user": "limitationn",
+            "link": "https://youtube.com/shorts/kx9PetHn0ow?si=ULIjsBAnaRhYTjIK",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
