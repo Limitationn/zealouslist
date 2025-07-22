@@ -101,6 +101,8 @@ export default {
                     <h3>Submission Requirements</h3>
                     <p>
                         get zeaky all over the screen mid run :drool:
+                        
+                        UGLY FARTBOB
                     </p>
                 </div>
             </div>
